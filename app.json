@@ -1,7 +1,7 @@
 {
   "name": "SILA-MD",
   "description": "Just Another simple Yet Powerfull Whatsapp automater",
-  "logo": "https://i.ibb.co/zWGkw7Jz/767022de0778.png",
+  "logo": "https://i.ibb.co/PGT958sJ/sila.png",
   "keywords": ["whatsapp", "bot", "sila-md", "baileys", "session"],
   "repository": "https://github.com/ilovekego/sila-md.git",
   "env": {
