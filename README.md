@@ -12,7 +12,7 @@
 </a>
 
 <p align="center">
-  <img style="width: 500px; height: 500px; border-radius: 20px; box-shadow: 0 0 30px #00ff00, 0 0 50px rgba(0, 255, 0, 0.3);" src="https://i.ibb.co/KjMFtjGx/wolfbot.png" alt="SILA-MD — Vinnie Digital Hub WhatsApp Bot" />
+  <img style="width: 500px; height: 500px; border-radius: 20px; box-shadow: 0 0 30px #00ff00, 0 0 50px rgba(0, 255, 0, 0.3);" src="https://i.ibb.co/PGT958sJ/sila.png" alt="SILA-MD — Vinnie Digital Hub WhatsApp Bot" />
 </p>
 
 <p align="center" style="color: #00ff00; text-shadow: 0 0 5px #00ff00;">
