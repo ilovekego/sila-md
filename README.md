@@ -63,7 +63,7 @@
 
 ## What is SILA-MD?
 
-**SILA-MD** (operating in **Sila's Mode**) is a powerful, fully-featured WhatsApp automation bot built by **Vinnie Digital Hub**. It runs on **Node.js** using the **wolfsocket** library (a baileys fork maintained under Vinnie Digital Hub) and is designed for both personal use and robust group management. Whether you need AI-powered chat responses, media downloads, group moderation, or automated status reactions — SILA-MD handles it all efficiently.
+**SILA-MD** (operating in **Sila's Mode**) is a powerful, fully-featured WhatsApp automation bot built by **Vinnie Digital Hub**. It runs on **Node.js** using the **VINNIE BAILEYS** library (a baileys fork maintained under Vinnie Digital Hub) and is designed for both personal use and robust group management. Whether you need AI-powered chat responses, media downloads, group moderation, or automated status reactions — SILA-MD handles it all efficiently.
 
 > SILA-MD WhatsApp Bot — fast, intelligent, and built for performance.
 
