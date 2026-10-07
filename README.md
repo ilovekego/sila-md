@@ -157,7 +157,7 @@ SILA-MD runs on all major platforms:
 
 ## 🔗 Links
 
-- 🌍 [Deploy SILA-MD](https://YOUR_REPO_GUARD_LINK_HERE)
+
 - 🔑 [Get Session Pair Code](https://sila-session-site.vercel.app/)
 - 📦 [Download ZIP](https://github.com/ilovekego/sila-md/archive/refs/heads/main.zip)
 - 🐙 [GitHub Repository](https://github.com/ilovekego/sila-md)
