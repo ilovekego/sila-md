@@ -106,3 +106,71 @@ SILA-MD comes packed with a wide range of features:
 ```bash
 git clone [https://github.com/ilovekego/sila-md.git](https://github.com/ilovekego/sila-md.git)
 cd sila-md
+### 2. Install dependencies
+```bash
+npm install
+```
+
+### 3. Get your session pair code
+Visit the [Session Pair Page](https://sila-session-site.vercel.app/) to generate your WhatsApp session credentials.
+
+### 4. Start the bot
+```bash
+node index.js
+```
+
+Or deploy directly using the deploy button above for a one-click cloud setup.
+
+---
+
+## 📋 Command Categories
+
+| Category | Commands |
+|---|---|
+| AI Chat | gpt, gemini, grok, deepseek, copilot, bard, claude, mistral, blackbox, wormgpt, chatbot |
+| AI Generation | imagine, flux, imagegen, suno, speechwriter, humanizer, removebg, vision |
+| Group Management | add, kick, promote, demote, mute, warn, ban, antilink, welcome, goodbye |
+| Auto Moderation | antisticker, antiimage, antivideo, antibadword, antimention, antiviewonce |
+| Media Downloads | tiktok, instagram, facebook, youtube, ytmp3, ytmp4, spotify, snapchat |
+| Automation | autoread, autotyping, autorecording, autoreact, autoviewstatus, autobio |
+| Utility | ping, alive, uptime, translate, weather, wiki, define, news, iplookup |
+| Privacy | online, lastseen, receipt, profilepic, privacy |
+| Games | tictactoe, snake, tetris, quiz, truth, dare, rps, dice |
+| Ethical Hacking | whois, dnslookup, portscan, sslcheck, malwarecheck, urlscan, nmap |
+| Text Effects | neon, 3D text, graffiti, metallic, hologram, ephoto effects (50+) |
+| Logo Studio | goldlogo, neonlogo, firelogo, diamondlogo, rainbowlogo (30+) |
+
+---
+
+## 🌐 Deployment Platforms
+
+SILA-MD runs on all major platforms:
+
+- **Replit** — recommended for beginners, always-on
+- **Heroku** — cloud deployment with one click
+- **Railway** — fast and simple cloud hosting
+- **Render** — free tier available
+- **VPS/Ubuntu** — full control, production-ready
+- **Termux (Android)** — run directly from your Android phone
+
+---
+
+## 🔗 Links
+
+- 🌍 [Deploy SILA-MD](https://YOUR_REPO_GUARD_LINK_HERE)
+- 🔑 [Get Session Pair Code](https://sila-session-site.vercel.app/)
+- 📦 [Download ZIP](https://github.com/ilovekego/sila-md/archive/refs/heads/main.zip)
+- 🐙 [GitHub Repository](https://github.com/ilovekego/sila-md)
+
+---
+
+<!-- Glowing Bottom Border -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
+<p align="center">
+  <strong><span style="color:#00ff41">SILA</span>-MD by <span style="color:#00ff41">Vinnie Digital Hub</span></strong>
+  <br>
+  <sub>POWERED BY VINNIE DIGITAL HUB — SILA-MD WhatsApp Bot © 2026</sub>
+</p>
